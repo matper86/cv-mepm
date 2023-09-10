@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="541e9ff5-80f5-4ca4-9d09-948179f89260" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon_1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon_192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon_256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon_384.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon_64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon_96.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +13,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2VE6Hye3zRRDKCiKRO5WPqrY8Je" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694388833031</updated>
-      <workItem from="1694388842797" duration="578000" />
+      <workItem from="1694388842797" duration="1269000" />
     </task>
     <servers />
   </component>
