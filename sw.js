@@ -8,7 +8,8 @@ const CACHE_NAME = 'v1_cache_programador',
     "https://kit.fontawesome.com/7027fa2602.js",
     './styles.css',
     './javascript.js',
-    './assets/foto-perfil.png',
+    './assets/favicon.png',
+    './assets/developer.png'
   ]
 self.addEventListener('install', e => {
   e.waitUntil(
